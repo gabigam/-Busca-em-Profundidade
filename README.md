@@ -7,7 +7,7 @@ Este repositório contém uma implementação em Python de um algoritmo de busca
 
 Funcionamento:
 
-O programa utiliza a técnica de busca em profundidade para encontrar uma ordenação linear dos vértices do grafo. A ordenação linear é uma ordem na qual para cada aresta direcionada xyxy, o vértice xx aparece antes do vértice yy. Esse tipo de ordenação é válido apenas para DAGs.
+O programa utiliza a técnica de busca em profundidade para encontrar uma ordenação linear dos vértices do grafo. A ordenação linear é uma ordem na qual para cada aresta direcionada xy, o vértice x aparece antes do vértice y. Esse tipo de ordenação é válido apenas para DAGs.
 
 Implementação:
 
