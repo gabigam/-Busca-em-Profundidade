@@ -23,11 +23,11 @@ O programa utiliza a técnica de busca em profundidade para encontrar uma ordena
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabigam/busca-em-profundidade.git
+   git clone https://github.com/gabigam/Algoritmo-de-Busca-em-Profundidade.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd busca-em-profundidade
+   cd Algoritmo-de-Busca-em-Profundidade
    ```
 3. Execute o arquivo Python:
    ```bash
